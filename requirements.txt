@@ -1,0 +1,5 @@
+streamlit==1.40.1
+ollama==0.6.1
+pandas==1.5.3
+openpyxl==3.1.2
+numpy==1.23.5
